@@ -1,0 +1,30 @@
+.sai {
+    font-family: Arial, sans-serif;
+    background-color: #1b1919;
+    padding: 20px;
+}
+
+.header {
+    background-color: #1b1919   ;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.header a {
+    text-decoration: none;
+    color: #1b1919;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 20px;
+}
+
+.header p {
+    margin: 0;
+}
+
+.text-center {
+    text-align: center;
+}
